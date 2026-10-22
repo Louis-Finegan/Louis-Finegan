@@ -53,4 +53,4 @@ I write about mathematics, physics and my projects on [my blog](https://louis-fi
 
 💬 Happy to chat about mathematics, physics, scientific computing and statistical modelling.
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/louis-m-finegan/) · [Blog](https://louis-finegan.github.io/)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/louis-m-finegan/) | [Blog](https://louis-finegan.github.io/)
