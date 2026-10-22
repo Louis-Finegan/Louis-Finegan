@@ -14,14 +14,6 @@ I’m interested in using mathematics and programming to understand physical sys
 - Numerical solutions of differential equations, with an interest in diffusion and fluid dynamics.
 - Computational simulations and visualisations to accompany my mathematics and physics writing.
 
-## 🎓 Academic background
-
-My Master’s research investigated the generation of cosmological initial conditions for models containing primordial black holes, using modified input power spectra with GenetIC.
-
-For my undergraduate dissertation, I studied audiovisual multisensory integration using statistical models and artificial neural networks.
-
-At TU Dublin, I received the **John M. Forde Medal in Mathematical Sciences** and a **Student Academic Excellence Award**. I have also worked as a Graduate Teaching Assistant at Maynooth University, leading calculus tutorials and supporting students in the Mathematics Support Centre.
-
 ## 🧪 Selected projects
 
 | Project | Description |
@@ -30,6 +22,14 @@ At TU Dublin, I received the **John M. Forde Medal in Mathematical Sciences** an
 | [Modelling Multisensory Behaviour](https://github.com/Louis-Finegan/Statistical-and-Neural-Networks-for-Modelling-Multisensory-Behaviour) | Comparing statistical models of audiovisual integration with neural network predictions. |
 | [Convection–Diffusion Models](https://github.com/Louis-Finegan/Convection-Diffusion-Models-Finite-Difference-Method-Python3) | Applying finite-difference methods to diffusion and transport equations, with animated solutions. |
 | [Orbital Manoeuvres](https://github.com/Louis-Finegan/Orbital-Manoeuvres) | Simulating orbital transfers in C and visualising trajectories using Python. |
+
+## 🎓 Academic background
+
+My Master’s research investigated the generation of cosmological initial conditions for models containing primordial black holes, using modified input power spectra with GenetIC.
+
+For my undergraduate dissertation, I studied audiovisual multisensory integration using statistical models and artificial neural networks.
+
+At TU Dublin, I received the **John M. Forde Medal in Mathematical Sciences** and a **Student Academic Excellence Award**. I have also worked as a Graduate Teaching Assistant at Maynooth University, leading calculus tutorials and supporting students in the Mathematics Support Centre.
 
 ## 🛠️ Languages and tools
 
