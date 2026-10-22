@@ -33,13 +33,13 @@ At TU Dublin, I received the **John M. Forde Medal in Mathematical Sciences** an
 
 ## 🛠️ Languages and tools
 
-**Programming:** Python · C · R · SQL · Bash
+**Programming:** Python, C, R, SQL, Bash
 
-**Scientific computing:** NumPy · SciPy · pandas · Matplotlib
+**Scientific computing:** NumPy, SciPy, pandas, Matplotlib
 
-**Machine learning:** scikit-learn · PyTorch
+**Machine learning:** scikit-learn, PyTorch
 
-**Development and writing:** Git · Linux · Jupyter · LaTeX
+**Development and writing:** Git, Linux, Jupyter, LaTeX
 
 ## 📊 GitHub activity
 
