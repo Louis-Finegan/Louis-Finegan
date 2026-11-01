@@ -51,9 +51,9 @@ At TU Dublin, I received the **John M. Forde Medal in Mathematical Sciences** an
 
 ## 📊 GitHub activity
 
-![Louis’s GitHub statistics](https://github-readme-stats.vercel.app/api?username=Louis-Finegan&show_icons=true&hide_rank=true&hide_border=true)
+![Louis’s GitHub statistics](https://github-stats-extended.vercel.app/api?username=Louis-Finegan&show_icons=true&hide_rank=true&hide_border=true)
 
-![Languages used in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Finegan&layout=compact&hide_border=true&langs_count=6)
+![Languages used in public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Louis-Finegan&layout=compact&hide_border=true&langs_count=6)
 
 ## ✍️ Beyond the code
 
